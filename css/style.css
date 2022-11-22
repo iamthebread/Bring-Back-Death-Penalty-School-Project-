@@ -29,3 +29,8 @@ img.justice {
     border-radius: 30px;
 }
 
+button.wiki {
+    border-width: 3px;
+    border-color: black;
+}
+
